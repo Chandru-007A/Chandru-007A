@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0B0F19&fontColor=2DD4BF&text=Chandra%20Prasad%20S&fontSize=38&desc=AI-Powered%20Full-Stack%20Developer%20%C2%B7%20AI%20Agents%20%C2%B7%20Verifiable%20Systems&descColor=38BDF8&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0B0F19&fontColor=2DD4BF&height=200&text=Chandra%20Prasad%20S&fontSize=34&fontAlignY=35&desc=AI-Powered%20Full-Stack%20Developer%20%C2%B7%20AI%20Agents%20%C2%B7%20Verifiable%20Systems&descSize=16&descAlignY=62&descColor=38BDF8&animation=fadeIn" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2DD4BF&center=true&vCenter=true&width=820&lines=%24+whoami+%E2%86%92+Chandra+Prasad+S;%24+role+%E2%86%92+AI-Powered+Full-Stack+Developer;%24+focus+%E2%86%92+AI+Agents+%7C+RAG+%7C+Verifiable+AI;%24+status+%E2%86%92+Open+to+SWE+%2F+AI+Engineer+roles+%26+internships" />
 
